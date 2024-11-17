@@ -1,1 +1,1 @@
-# NYU_DL_Midterm
+# NYU Deep Learning, Fall 2024 Midterm
